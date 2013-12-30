@@ -1,4 +1,7 @@
-monte-carlo
+Monte Carlo Simulations
 ===========
 
-Monte carlo simulation examples
+This is a collection of examples of monte carlo simulations.
+
+Includes:
+# Pi number estimator
